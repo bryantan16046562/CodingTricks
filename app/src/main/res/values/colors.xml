@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FE8453</color>
+    <color name="colorPrimaryDark">#EC507F</color>
+    <color name="colorAccent">#D81B60</color>
+    #EC507F
+    <color name="colorblack">#000000</color>
+    <color name="colorwhite">#ffffff</color>
+
+    <color name="dashboardcolorPrimary">#FFC107</color>
+    <color name="dashboardcolorPrimaryDark">#FFA000</color>
+    <color name="dashboardbackgroundcolor">#fcfcfc</color>
+    <color name="dashboardlightgrayline">#ededed</color>
+    <color name="dashboarddeeppurple">#7c4dff</color>
+    <color name="dashboardmaterialyellow">#ffb300</color>
+    <color name="dashboardmaterialgreen">#00bfa5</color>
+    <color name="dashboardpinkaccent">#ff4081</color>
+    <color name="dashboardlightblue">#00ffff</color>
+
+    <color name="dashboardaboutmebluedark">#2f333f</color>
+    <color name="dashboardaboutmebluelight">#49acd5</color>
+    <color name="dashboardaboutmegreen">#45bc62</color>
+    <color name="dashboardaboutmeorange">#eaad43</color>
+
+    <color name="tutorialprimarybluelight">#05c3f9</color>
+    <color name="splashlightgray">#cdcdc1</color>
+</resources>

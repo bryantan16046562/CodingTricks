@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CodingTricks</string>
+
+    <!--  we need to use video ids instead of video link  -->
+    <string-array name="htmlcssvideosarray">
+        <item>Y_-Q6HcD5Wg</item>
+        <item>pdH5X2mXzPk</item>
+        <item>v1PeTDrw6OY</item>
+        <item>FCPNN730c98</item>
+        <item>9Irz0c-6UGw</item>
+        <item>MLfAW55_4cY</item>
+        <item>j2u9kc6SrPY</item>
+    </string-array>
+    <string-array name="bsvideosarray">
+        <item>93QK-byrx9k</item>
+        <item>OTNCPTdCUMU</item>
+        <item>9cKsq14Kfsw</item>
+        <item>Ht1F9KuhJO4</item>
+        <item>Thw33qJ5DXo</item>
+    </string-array>
+    <string-array name="jsvideosarray">
+        <item>JDiurjhpOXA</item>
+        <item>onLsz9BwP7M</item>
+        <item>Dxm6EwvQIl8</item>
+        <item>wkvnU1CMZh0</item>
+        <item>qQd6X2rb_LU</item>
+    </string-array>
+    <string-array name="jqvideosarray">
+        <item>NuLIDDoUmnA</item>
+        <item>W-1A9sXxnL0</item>
+        <item>jdiVhJLGm2Y</item>
+        <item>6vB3J9bN-GQ</item>
+        <item>3HaDKSzG5Bk</item>
+    </string-array>
+
+
+    <!-- android videos -->
+    <string-array name="video_androidid_array">
+        <item>-qsHE3TpJqw</item>
+        <item>mN6kM_1M0cY</item>
+        <item>byLKoPgB7yA</item>
+    </string-array>
+    <string-array name="video_androidtitle_array">
+        <item>Implement Night Mode in your App | Custom Styles</item>
+        <item>Creating and Designing a Navigation Drawer</item>
+        <item>Android Slide / Walkthrough / Onboarding Screen Design</item>
+    </string-array>
+    <string-array name="video_androidduration_array">
+        <item>22:11</item>
+        <item>20:08</item>
+        <item>20:53</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
