@@ -9,14 +9,13 @@ import android.view.ViewGroup;
 
 import bryantan.codingtricks.android.droidActivity;
 import bryantan.codingtricks.ios.iosActivity;
-import bryantan.codingtricks.iot.iotActivity;
 import bryantan.codingtricks.web.WebActivity;
 
 public class HomeFragment extends Fragment {
     CardView web;
     CardView droid;
     CardView ios;
-    CardView iot;
+
     public HomeFragment() {
         // Required empty public constructor
     }
@@ -27,7 +26,6 @@ public class HomeFragment extends Fragment {
         web = (CardView) view.findViewById(R.id.websiteId);
         droid = (CardView) view.findViewById(R.id.androidId);
         ios = (CardView) view.findViewById(R.id.iosId);
-        iot = (CardView) view.findViewById(R.id.iotId);
 
         web.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -50,13 +48,7 @@ public class HomeFragment extends Fragment {
                 startActivity(iosIntent);
             }
         });
-        iot.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent iotIntent = new Intent(getActivity(), iotActivity.class);
-                startActivity(iotIntent);
-            }
-        });
+
         return view;
     }
 }

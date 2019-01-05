@@ -33,7 +33,6 @@
         <item>3HaDKSzG5Bk</item>
     </string-array>
 
-
     <!-- android videos -->
     <string-array name="video_androidid_array">
         <item>-qsHE3TpJqw</item>
@@ -51,7 +50,25 @@
         <item>20:53</item>
     </string-array>
 
+    <!-- ios videos -->
+    <string-array name="video_iosid_array">
+        <item>1uVnWbygg_c</item>
+        <item>38LNXk_oTak</item>
+        <item>sUhq1vIrRbo</item>
+        <item>crp_WiDTipM</item>
+    </string-array>
+    <string-array name="video_iostitle_array">
+        <item>10 Xcode Tips &amp; Tricks - Xcode 10</item>
+        <item>20 Xcode Tips &amp; Tricks - Updated for Xcode 9 - 2017</item>
+        <item>How to Save Data with UserDefaults - Swift</item>
+        <item>27 Xcode Keyboard Shortcuts - Xcode 10 Tips and Tricks</item>
+    </string-array>
+    <string-array name="video_iosduration_array">
+        <item>12:22</item>
+        <item>20:09</item>
+        <item>13:55</item>
+        <item>10:58</item>
+    </string-array>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>

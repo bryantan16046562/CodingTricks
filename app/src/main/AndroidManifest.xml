@@ -26,9 +26,8 @@
         <activity android:name=".android.droidActivity" android:windowSoftInputMode="stateAlwaysHidden"/>
         <activity android:name=".android.droidYoutubePlayerActivity" android:windowSoftInputMode="stateAlwaysHidden" />
 
-        <activity android:name=".iot.iotActivity" android:windowSoftInputMode="stateAlwaysHidden"/>
         <activity android:name=".ios.iosActivity" android:windowSoftInputMode="stateAlwaysHidden"/>
-
+        <activity android:name=".ios.iosYoutubePlayerActivity" android:windowSoftInputMode="stateAlwaysHidden" />
     </application>
 
 </manifest>
